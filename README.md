@@ -45,4 +45,9 @@ This guide demonstrates how to connect to Azure IoT Hub using the Paho MQTT libr
 
  ## Notes
  Ensure you follow Azure IoT Hub security best practices when managing device keys and SAS tokens. Rotate keys periodically to maintain a secure environment.
+
+
+
+## References
+[How to use mqtt in python](https://www.emqx.com/en/blog/how-to-use-mqtt-in-python)
  
