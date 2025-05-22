@@ -19,7 +19,7 @@ This guide demonstrates how to connect to Azure IoT Hub using the Paho MQTT libr
 1.	Python Environment:
   Ensure Python 3.7+ is installed.
 
-1. Code Implementation-> [HERE](https://duckduckgo.com).
+1. Code Implementation-> [HERE](https://github.com/CamiloCamachoV/MQTT-Python/blob/main/mqtt_client.py).
 
 1. Explanation
 
