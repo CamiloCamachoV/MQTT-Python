@@ -43,6 +43,10 @@ This guide demonstrates how to connect to Azure IoT Hub using the Paho MQTT libr
 	•	Publish to: devices/{DEVICE_ID}/messages/events/
 	•	Subscribe to: devices/{DEVICE_ID}/messages/devicebound/#
 
+## Architecture
+![Architecture image](_Architecturepng.png "Architecture")
+ 
+
  ## Notes
  Ensure you follow Azure IoT Hub security best practices when managing device keys and SAS tokens. Rotate keys periodically to maintain a secure environment.
 
